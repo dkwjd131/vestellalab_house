@@ -1,0 +1,12 @@
+name: BMI_shiny
+title: BMI_shiny
+username:
+account: vestelladata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1046453
+bundleId: 2259683
+url: https://vestelladata.shinyapps.io/BMI_shiny/
+when: 1563935608.32161
+asMultiple: FALSE
+asStatic: FALSE
